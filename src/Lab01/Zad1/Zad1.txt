@@ -1,0 +1,10 @@
+Wzorzec Strategia umożliwia zmianę kodu w trakcie jego wykonywania, podczas gdy zwykła implementacja interfejsu na to nie zezwala.
+
+Zalety:
+1. Czytelny kod
+2. Możliwość zmiany kodu na żywo w trakcie działania
+
+
+Wady:
+1. Skomplikowana logika
+2. Duża ilość klas
