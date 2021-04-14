@@ -1,14 +1,12 @@
 package Lab02.Zad1;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Iterator;
 
 
 public class Main {
     public static void main(String[] args) {
-
-  /*      Duck[] ducksArray = new Duck[4];
+/*
+        Duck[] ducksArray = new Duck[4];
         ducksArray[0] = new MallardDuck("gamma");
         ducksArray[1] = new RedHeadDuck("alfa");
         ducksArray[2] = new DecoyDuck("beta");
