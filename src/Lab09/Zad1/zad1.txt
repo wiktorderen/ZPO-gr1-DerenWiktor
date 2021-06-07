@@ -1,0 +1,5 @@
+Singleton to kreacyjny wzorzec projektowy mający na celu ograniczenie tworzenia obiektów danej klasy poprzez zapewnienie globalnego dostępu do obiektu.
+Często nazywany jest antywzorcem, ponieważ łamie konwencje programistyczne (np. porównywany jest do tworzenia zmiennych globalnych).
+
+Stosowany gdy:
+-każdy element programu musie mieć dostęp do obiektu czyli obiekt jest globalny

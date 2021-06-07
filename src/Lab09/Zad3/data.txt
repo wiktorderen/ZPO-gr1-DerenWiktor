@@ -1,0 +1,12 @@
+January:500.00
+February:100.00
+March:200.00
+April:400.00
+May:300.00
+June:250.00
+July:200.00
+August:100.00
+September:350.00
+October:150.00
+November:200.00
+December:500.00

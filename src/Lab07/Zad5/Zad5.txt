@@ -1,0 +1,2 @@
+Adaptera używa się w celu umożliwienia współpracy dwóm klasom o różnych, niekompatybilnych ze sobą interfejsach.
+Fasady używa się w celu umożliwienia użycia jednego, wpólnego dla wszystkich komponentów interfejsu dla ułatwienia użycia.
