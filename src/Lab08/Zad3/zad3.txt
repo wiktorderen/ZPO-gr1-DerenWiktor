@@ -1,0 +1,1 @@
+Nigdy nie spotkałem się z metodą szablonową w projekcie ale wiem, ze jest używana w JUnit czyli narzędziu służącego do przeprowadzania testów jednostkowych programów pisanych w języku Java.
